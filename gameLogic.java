@@ -15,7 +15,7 @@ if(PICKword == PICKword.toLowerCase()){
 
 
 
-public static void HangMan(String correctAnswer){
+public static void hangMan(String correctAnswer){
     lives++;
 
     switch(lives){
