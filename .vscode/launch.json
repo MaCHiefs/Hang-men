@@ -5,6 +5,13 @@
             "name": "mainHM",
             "request": "launch",
             "mainClass": "mainHM",
+            "projectName": "Hang Man_a499a1a9"
+        },
+        {
+            "type": "java",
+            "name": "mainHM",
+            "request": "launch",
+            "mainClass": "mainHM",
             "projectName": "Hangman_62304766"
         },
         {

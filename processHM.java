@@ -16,7 +16,7 @@ return word;
 
 
 public static boolean proc2(Character answer, String word){
-    boolean check = false;
+    
         
         
         for(int i =0;i<word.length();i++){
@@ -24,9 +24,9 @@ public static boolean proc2(Character answer, String word){
 return true;
 }
             } 
-            if(check==false){
-                gameLogic.HangMan(word);
-            }      
+        
+                gameLogic.hangMan(word);
+           
 return true;
         }
 }
